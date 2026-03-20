@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
-  name     = rohan-a09-rg
+  name     = "rohan-a09-rg"
   location = "Canada Central"
 }
 
